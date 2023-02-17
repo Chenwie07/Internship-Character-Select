@@ -28,13 +28,13 @@ public class CharacterSelect : MonoBehaviour
         switch (id)
         {
             case "Murdoc":
-                print("Murdoc"); 
+                print(id); 
                 break;
             case "Judi":
-                print("Judi");
+                print(id);
                 break;
             case "Amunga":
-                print("Amunga");
+                print(id);
                 break; 
         }
     }
