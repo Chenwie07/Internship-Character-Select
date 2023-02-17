@@ -15,8 +15,8 @@ MonoBehaviour:
   _Profile:
     id: Murdoc
     age: 30
-    background: Murdoc is traveling warrior that has his sights set on conquering
-      all the battle grounds across the ocntinent
+    background: Murdoc is a traveling warrior that has his sights set on conquering
+      all the battle grounds across the continent
   _Appearance:
     portrait: {fileID: 1698589822, guid: d4373a653f7388c4f972279480cac4ff, type: 3}
     skinTone: {r: 1, g: 0.7020357, b: 0.24056602, a: 0}
