@@ -16,6 +16,10 @@ public class Char_Profile
     public string id; // our ID will be string for Name. 
     public int age; 
     [TextArea(2, 4)] public string background; 
+
+    public string ID { get { return id; } }
+    public int Age { get { return age; } }
+    public string Bio { get { return background; } }
 }
 
 [System.Serializable]
@@ -42,4 +46,13 @@ public class Char_Parameters
     public Char_Class characterClass;
     [SerializeField] int HP;
     [SerializeField] int MP; 
+
+    public int BaseHP
+    {
+        get { return HP; }
+    }
+    public int BaseMP
+    {
+        get { return MP; }
+    }
 }

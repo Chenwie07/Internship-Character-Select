@@ -238,9 +238,15 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   characterList:
-  - {fileID: 11400000, guid: acb2299f98e3daa4d8db8c963d00c8d0, type: 2}
-  - {fileID: 11400000, guid: 97a5b2ffd90f1774e9a910078b5a7056, type: 2}
   - {fileID: 11400000, guid: ada3462f76a7b874090e27305c4b232a, type: 2}
+  - {fileID: 11400000, guid: 97a5b2ffd90f1774e9a910078b5a7056, type: 2}
+  - {fileID: 11400000, guid: acb2299f98e3daa4d8db8c963d00c8d0, type: 2}
+  _hp: {fileID: 459725313}
+  _mp: {fileID: 1154863869}
+  _name: {fileID: 519350407}
+  _age: {fileID: 1714489599}
+  _bio: {fileID: 1611221363}
+  _class: {fileID: 1722635958}
 --- !u!1 &257537134
 GameObject:
   m_ObjectHideFlags: 0
