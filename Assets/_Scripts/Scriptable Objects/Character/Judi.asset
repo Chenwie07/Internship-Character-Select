@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8dd92864dd8166440a3afd3330996320, type: 3}
+  m_Name: Judi
+  m_EditorClassIdentifier: 
+  _Profile:
+    id: Judi
+    age: 17
+    background: 'Judi is a vengeful female  elemental that was brought to life by
+      the wishes of a young girl that was wrongly prosecuted by her people '
+  _Appearance:
+    portrait: {fileID: 0}
+    skinTone: {r: 0.8213352, g: 1, b: 0.6462264, a: 0}
+  _Parameters:
+    characterClass: 2
+    HP: 80
+    MP: 250
