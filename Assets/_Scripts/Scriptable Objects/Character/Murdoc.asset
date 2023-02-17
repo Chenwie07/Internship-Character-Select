@@ -18,8 +18,8 @@ MonoBehaviour:
     background: Murdoc is traveling warrior that has his sights set on conquering
       all the battle grounds across the ocntinent
   _Appearance:
-    portrait: {fileID: 0}
-    skinTone: {r: 0.5283019, g: 0.05731578, b: 0.05731578, a: 0}
+    portrait: {fileID: 1698589822, guid: d4373a653f7388c4f972279480cac4ff, type: 3}
+    skinTone: {r: 1, g: 0.7020357, b: 0.24056602, a: 0}
   _Parameters:
     characterClass: 0
     HP: 300

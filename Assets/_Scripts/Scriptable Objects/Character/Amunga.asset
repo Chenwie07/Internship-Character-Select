@@ -19,8 +19,8 @@ MonoBehaviour:
       journeys to recover the souls of those trapped in the Fog world of the fog
       tribe.
   _Appearance:
-    portrait: {fileID: 0}
-    skinTone: {r: 0.3679245, g: 0.17011562, b: 0, a: 0}
+    portrait: {fileID: 444975531, guid: d4373a653f7388c4f972279480cac4ff, type: 3}
+    skinTone: {r: 0.3301887, g: 0.28878257, b: 0.2538715, a: 0}
   _Parameters:
     characterClass: 1
     HP: 150

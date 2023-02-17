@@ -241,6 +241,10 @@ MonoBehaviour:
   - {fileID: 11400000, guid: ada3462f76a7b874090e27305c4b232a, type: 2}
   - {fileID: 11400000, guid: 97a5b2ffd90f1774e9a910078b5a7056, type: 2}
   - {fileID: 11400000, guid: acb2299f98e3daa4d8db8c963d00c8d0, type: 2}
+  portraits:
+  - {fileID: 311330508}
+  - {fileID: 1045275559}
+  - {fileID: 330349994}
   _hp: {fileID: 459725313}
   _mp: {fileID: 1154863869}
   _name: {fileID: 519350407}
@@ -694,12 +698,12 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_Padding:
-    m_Left: 0
-    m_Right: 0
-    m_Top: 0
-    m_Bottom: 0
+    m_Left: 100
+    m_Right: 100
+    m_Top: 50
+    m_Bottom: 50
   m_ChildAlignment: 0
-  m_Spacing: 20
+  m_Spacing: 50
   m_ChildForceExpandWidth: 1
   m_ChildForceExpandHeight: 1
   m_ChildControlWidth: 1

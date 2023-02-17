@@ -13,7 +13,7 @@ public class CharacterSelect : MonoBehaviour
 {
     public List<Character> characterList = new List<Character>(); // 0 - Murdoc, 1 - Judi , 2 - Amunga
 
-    private Image[] portraits;
+    [SerializeField] private Image[] portraits;
 
     #region UI Fields
     [Header("UI Fields")]
